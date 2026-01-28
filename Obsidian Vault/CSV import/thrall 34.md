@@ -1,0 +1,10 @@
+---
+char: "thrall"
+source: "https://wowpedia.fandom.com/wiki/Thrall"
+text: "The Frostwolf warrior Ga'nar was able to take the ship the Horde boarded to Frostfire Ridge, although his poor navigating skills resulted in the ship crashing. Thankfully, it crashed on the shore of the intended destination. Thrall came in contact with Durotan, who gave the Horde a piece of land in Frostwall, and the rest of the Frostwolf clan there. Thrall had Monte Gazlowe summoned in order to build a garrison for the Horde. While building, Thrall confronted the gronn Skog in a nearby cave. Once the structures were built he and Drek'Thar went to Wor'gol to find Durotan. While in the main village of the clan, Thrall noticed a Shamanstone and felt that Draenor's elementals speak to him by a language he doesn't understand. Durotan decided to put an end to the ogre's threat thus Thrall assisted the clan in the taking of Bladespire Citadel. Before the main building, he summoned a tornado to the attacking ogres only to have him weakened. When he caught his breath he rejoined the attack inside of the citadel. While the commander went to confront the ogre lord Gorr'thog, Thrall stayed and healed the injured Frostwolves. Once the lord was killed, the citadel was completely taken by the orcs and he stayed in the throne room for a time alongside Durotan. Some time later, he returned to the Garrison and Draka asked him about his mate. He answered that she stayed home with their newly born children. Draka was surprised by this and maintained that family needs to be together in times of war. The ogres weren't the only problem in Frostfire - the Thunderlord clan declared war to the Frostwolves. Thrall accompanied his clan to Grom'gar, ancient home of the Thunderlords and from there he continued to the Thunder Pass, where he assisted in the battle against the approaching Iron Horde. During the battle he destroyed a cannon and Drek'Thar noticed that he had to had a great teacher. Ultimately, he watched the sacrifice of Ga'nar."
+keywords: "['sacrifice']"
+context: "teacher. Ultimately, he watched the sacrifice of Ga'nar."
+count: 1
+cluster: 0
+---
+

@@ -1,0 +1,30 @@
+filters: file.folder == "CSV import"
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - char
+      - text
+      - source
+      - keywords
+      - context
+      - count
+      - cluster
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: DESC
+      - property: formula.Untitled
+        direction: ASC
+      - property: keywords
+        direction: DESC
+      - property: file.name
+        direction: ASC
+      - property: count
+        direction: ASC
+    columnSize:
+      note.context: 875
+      note.cluster: 77

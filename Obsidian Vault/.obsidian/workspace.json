@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "65dcdf52153db52b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd7f24a0b83607a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15717a0e5dd6a2b3",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "CSV import.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "CSV import"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "255c01d111f025d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ca67b8288788e34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ed33381cb3a3804",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a591c0e047c39c15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "54f57096b91b51e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce849a6d44053b95",
+    "type": "split",
+    "children": [
+      {
+        "id": "194277f630d439d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "601e7402e1ace299",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSV import.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CSV import"
+            }
+          },
+          {
+            "id": "b23cd57513d6f564",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6bc0564aa7148bb5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f74b48354a5a6d4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "15717a0e5dd6a2b3",
+  "lastOpenFiles": [
+    "CSV import.base",
+    "CSV import/Untitled 3.md",
+    "CSV import/Untitled 2.md",
+    "2026-01-28.md",
+    "Untitled.canvas",
+    "CSV import/arthas 2.md",
+    "CSV import/Untitled 1.md",
+    "Untitled.md",
+    "CSV import/illidan 150.md",
+    "CSV import/illidan 140.md",
+    "CSV import/illidan 114.md",
+    "CSV import/illidan 80.md",
+    "CSV import/illidan 69.md",
+    "CSV import/illidan 62.md",
+    "CSV import/illidan 60.md",
+    "CSV import/illidan 50.md",
+    "CSV import/illidan 33.md",
+    "CSV import/illidan 29.md",
+    "CSV import/illidan 21.md",
+    "CSV import/illidan 11.md",
+    "CSV import/illidan 4.md",
+    "CSV import/illidan.md",
+    "CSV import/arthas 107.md",
+    "CSV import/illidan 168.md",
+    "CSV import/illidan 121.md",
+    "CSV import/illidan 122.md",
+    "CSV import/illidan 123.md",
+    "CSV import",
+    "warcraft_passages 2.csv",
+    "warcraft_passages_clustered 2.csv",
+    "warcraft_passages 1.csv",
+    "warcraft_passages_clustered 1.csv",
+    "warcraft_passages.csv",
+    "warcraft_passages_clustered.csv",
+    "desktop.ini"
+  ]
+}
